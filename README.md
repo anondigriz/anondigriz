@@ -1,4 +1,4 @@
-👋 Hi, I’m [Dmitry Aladin](https://dmitry.icu/).!
+👋 Hi, I’m [Dmitry Aladin](https://dmitry.icu/)!
 
 - 🧑‍💻 I’m a Bauman engineer who is passionate about modern technologies.
 - 🦾 I’m interested in developing and improving in the field of application development and information systems. 
